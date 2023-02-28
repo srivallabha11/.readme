@@ -1,7 +1,7 @@
 # srivallabha
 My personnal repository
 <a href="https://github.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=100&lines=DATA+SCIENCE+%7C;+DATA+VISUALIZATION;+MACHINE+LEARNING;BASIC+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=100&lines=DATA+SCIENCE+%7C;+DATA+VISUALIZATION;+MACHINE+LEARNING;BASIC+AI" alt="Typing SVG" />
 
 
 
